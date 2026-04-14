@@ -126,7 +126,8 @@ streamlit run app.py
 ```
 ---
 
-##👤 Author
+## 👤 Author
 
-Ngoc Bao Tran Nguyen
-Data Science & AI Portfolio Project
+**Ngoc Bao Tran Nguyen**  
+🎓 Data Science & AI Portfolio Project  
+🔗 [LinkedIn](https://linkedin.com/in/your-link)
