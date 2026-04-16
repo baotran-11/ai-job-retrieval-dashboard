@@ -6,7 +6,7 @@ An interactive dashboard that compares search and optimization algorithms (BFS, 
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Interactive Dashboard
 
 👉 https://baotran-11-ai-job-retrieval-dashboard-app-gq23iv.streamlit.app/
 
