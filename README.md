@@ -1,4 +1,4 @@
-# 🚀 AI Job Retrieval & Optimization
+# 🚀 AI-Powered Job Search Optimisation
 
 An interactive dashboard that compares search and optimization algorithms (BFS, A*, Genetic Algorithm) for retrieving high-quality AI-related job postings from large-scale datasets.
 
