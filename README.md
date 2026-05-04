@@ -131,7 +131,7 @@ streamlit run app.py
 ```
 ---
 
-## 👤 Author
+## 👩‍💻 Author
 
 **Ngoc Bao Tran (Tracy) Nguyen**  
 🎓 Data Science & AI Portfolio Project  
